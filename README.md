@@ -35,7 +35,9 @@
 
 ## :dart: About ##
 
-Estoura Balão é um jogo que tem como objetivo estourar balões no menor tempo possível. A cada balão estourado, mais rápido o o próximo balão irá aparecer.
+Estoura Balão é um jogo que tem como objetivo estourar o maior número de balões em 1 minuto e meio. A cada balão estourado, mais rápido o próximo balão irá aparecer.
+
+Divirta-se! :smile:
 
 ## :rocket: Technologies ##
 
